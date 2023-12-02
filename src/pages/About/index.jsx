@@ -33,7 +33,7 @@ const About = () => {
               <img src={vnw} alt="Logo IFSUL" />
               <figcaption>
                 <h3>Vai na Web</h3>
-                <p>Desenvolvimento Web</p>
+                <p>Desenvolvimento Frontend</p>
                 <p>Abr/23 - Dez/23</p>
 
               </figcaption>
